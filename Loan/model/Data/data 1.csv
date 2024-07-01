@@ -1,0 +1,368 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,DateOfBirth
+HF001015,Male,Yes,0,Graduate,No,5720,0,110,360,1,Urban,15-Jun-1992
+HF001022,Male,Yes,1,Graduate,No,3076,1500,126,360,1,Urban,28-Sep-1993
+HF001031,Male,Yes,2,Graduate,No,5000,1800,208,360,1,Urban,25-Nov-1991
+HF001035,Male,Yes,2,Graduate,No,2340,2546,100,360,,Urban,03-Jun-1984
+HF001051,Male,No,0,Not Graduate,No,3276,0,78,360,1,Urban,22-Mar-1982
+HF001054,Male,Yes,0,Not Graduate,Yes,2165,3422,152,360,1,Urban,09-Sep-1987
+HF001055,Female,No,1,Not Graduate,No,2226,0,59,360,1,Semiurban,26-Nov-1999
+HF001056,Male,Yes,2,Not Graduate,No,3881,0,147,360,0,Rural,28-Aug-1982
+HF001059,Male,Yes,2,Graduate,,13633,0,280,240,1,Urban,22-Aug-1997
+HF001067,Male,No,0,Not Graduate,No,2400,2400,123,360,1,Semiurban,08-Jun-1982
+HF001078,Male,No,0,Not Graduate,No,3091,0,90,360,1,Urban,02-Jan-1993
+HF001082,Male,Yes,1,Graduate,,2185,1516,162,360,1,Semiurban,01-Feb-1989
+HF001083,Male,No,3+,Graduate,No,4166,0,40,180,,Urban,12-Nov-1995
+HF001094,Male,Yes,2,Graduate,,12173,0,166,360,0,Semiurban,15-Oct-1985
+HF001096,Female,No,0,Graduate,No,4666,0,124,360,1,Semiurban,05-Jan-1986
+HF001099,Male,No,1,Graduate,No,5667,0,131,360,1,Urban,13-Oct-1985
+HF001105,Male,Yes,2,Graduate,No,4583,2916,200,360,1,Urban,13-Dec-1992
+HF001107,Male,Yes,3+,Graduate,No,3786,333,126,360,1,Semiurban,20-Apr-1984
+HF001108,Male,Yes,0,Graduate,No,9226,7916,300,360,1,Urban,12-Apr-2000
+HF001115,Male,No,0,Graduate,No,1300,3470,100,180,1,Semiurban,31-Dec-1983
+HF001121,Male,Yes,1,Not Graduate,No,1888,1620,48,360,1,Urban,13-Sep-2000
+HF001124,Female,No,3+,Not Graduate,No,2083,0,28,180,1,Urban,19-Nov-1998
+HF001128,,No,0,Graduate,No,3909,0,101,360,1,Urban,05-Oct-1988
+HF001135,Female,No,0,Not Graduate,No,3765,0,125,360,1,Urban,29-Oct-1984
+HF001149,Male,Yes,0,Graduate,No,5400,4380,290,360,1,Urban,12-Feb-1983
+HF001153,Male,No,0,Graduate,No,0,24000,148,360,0,Rural,20-Nov-1989
+HF001163,Male,Yes,2,Graduate,No,4363,1250,140,360,,Urban,04-May-1999
+HF001169,Male,Yes,0,Graduate,No,7500,3750,275,360,1,Urban,10-Oct-1992
+HF001174,Male,Yes,0,Graduate,No,3772,833,57,360,,Semiurban,10-Oct-1991
+HF001176,Male,No,0,Graduate,No,2942,2382,125,180,1,Urban,26-Aug-1994
+HF001177,Female,No,0,Not Graduate,No,2478,0,75,360,1,Semiurban,07-Jan-1991
+HF001183,Male,Yes,2,Graduate,No,6250,820,192,360,1,Urban,12-Aug-1986
+HF001185,Male,No,0,Graduate,No,3268,1683,152,360,1,Semiurban,04-Oct-1985
+HF001187,Male,Yes,0,Graduate,No,2783,2708,158,360,1,Urban,30-Aug-1996
+HF001190,Male,Yes,0,Graduate,No,2740,1541,101,360,1,Urban,16-Jun-1992
+HF001203,Male,No,0,Graduate,No,3150,0,176,360,0,Semiurban,06-Jul-1992
+HF001208,Male,Yes,2,Graduate,,7350,4029,185,180,1,Urban,25-Nov-1986
+HF001210,Male,Yes,0,Graduate,Yes,2267,2792,90,360,1,Urban,24-Jun-1989
+HF001211,Male,No,0,Graduate,Yes,5833,0,116,360,1,Urban,28-Mar-1984
+HF001219,Male,No,0,Graduate,No,3643,1963,138,360,1,Urban,02-Oct-1983
+HF001220,Male,Yes,0,Graduate,No,5629,818,100,360,1,Urban,31-Mar-1998
+HF001221,Female,No,0,Graduate,No,3644,0,110,360,1,Urban,22-Feb-1985
+HF001226,Male,Yes,0,Not Graduate,No,1750,2024,90,360,1,Semiurban,17-Jul-1986
+HF001230,Male,No,0,Graduate,No,6500,2600,200,360,1,Semiurban,08-Aug-1994
+HF001231,Female,No,0,Graduate,No,3666,0,84,360,1,Urban,12-Jul-1998
+HF001232,Male,Yes,0,Graduate,No,4260,3900,185,,,Urban,21-Apr-1991
+HF001237,Male,Yes,,Not Graduate,No,4163,1475,162,360,1,Urban,08-Jul-1991
+HF001242,Male,No,0,Not Graduate,No,2356,1902,108,360,1,Semiurban,04-Nov-1996
+HF001268,Male,No,0,Graduate,No,6792,3338,187,,1,Urban,21-Sep-1998
+HF001270,Male,Yes,3+,Not Graduate,Yes,8000,250,187,360,1,Semiurban,28-Apr-1993
+HF001284,Male,Yes,1,Graduate,No,2419,1707,124,360,1,Urban,28-May-1987
+HF001287,,Yes,3+,Not Graduate,No,3500,833,120,360,1,Semiurban,26-Sep-1995
+HF001291,Male,Yes,1,Graduate,No,3500,3077,160,360,1,Semiurban,02-Feb-2000
+HF001298,Male,Yes,2,Graduate,No,4116,1000,30,180,1,Urban,26-Jan-1993
+HF001312,Male,Yes,0,Not Graduate,Yes,5293,0,92,360,1,Urban,19-Jul-1989
+HF001313,Male,No,0,Graduate,No,2750,0,130,360,0,Urban,08-Dec-1987
+HF001317,Female,No,0,Not Graduate,No,4402,0,130,360,1,Rural,28-Apr-1992
+HF001321,Male,Yes,2,Graduate,No,3613,3539,134,180,1,Semiurban,05-Jun-1984
+HF001323,Female,Yes,2,Graduate,No,2779,3664,176,360,0,Semiurban,02-Aug-1986
+HF001324,Male,Yes,3+,Graduate,No,4720,0,90,180,1,Semiurban,23-Apr-1987
+HF001332,Male,Yes,0,Not Graduate,No,2415,1721,110,360,1,Semiurban,09-Jan-1994
+HF001335,Male,Yes,0,Graduate,Yes,7016,292,125,360,1,Urban,30-Jun-1989
+HF001338,Female,No,2,Graduate,No,4968,0,189,360,1,Semiurban,08-Dec-1986
+HF001347,Female,No,0,Graduate,No,2101,1500,108,360,0,Rural,09-Feb-1988
+HF001348,Male,Yes,3+,Not Graduate,No,4490,0,125,360,1,Urban,24-Dec-1993
+HF001351,Male,Yes,0,Graduate,No,2917,3583,138,360,1,Semiurban,16-Sep-1986
+HF001352,Male,Yes,0,Not Graduate,No,4700,0,135,360,0,Semiurban,30-May-1991
+HF001358,Male,Yes,0,Graduate,No,3445,0,130,360,0,Semiurban,08-Nov-1986
+HF001359,Male,Yes,0,Graduate,No,7666,0,187,360,1,Semiurban,25-Mar-1982
+HF001361,Male,Yes,0,Graduate,No,2458,5105,188,360,0,Rural,25-Sep-1988
+HF001366,Female,No,,Graduate,No,3250,0,95,360,1,Semiurban,22-Jul-2000
+HF001368,Male,No,0,Graduate,No,4463,0,65,360,1,Semiurban,31-Jul-1986
+HF001375,Male,Yes,1,Graduate,,4083,1775,139,60,1,Urban,11-Nov-1983
+HF001380,Male,Yes,0,Graduate,Yes,3900,2094,232,360,1,Rural,13-Jun-1993
+HF001386,Male,Yes,0,Not Graduate,No,4750,3583,144,360,1,Semiurban,26-Dec-1994
+HF001400,Male,No,0,Graduate,No,3583,3435,155,360,1,Urban,22-May-1994
+HF001407,Male,Yes,0,Graduate,No,3189,2367,186,360,1,Urban,09-Jul-1995
+HF001413,Male,No,0,Graduate,Yes,6356,0,50,360,1,Rural,21-Jan-1989
+HF001415,Male,Yes,1,Graduate,No,3413,4053,,360,1,Semiurban,10-Oct-1983
+HF001419,Female,Yes,0,Graduate,No,7950,0,185,360,1,Urban,24-Feb-1983
+HF001420,Male,Yes,3+,Graduate,No,3829,1103,163,360,0,Urban,26-Feb-1984
+HF001428,Male,Yes,3+,Graduate,No,72529,0,360,360,1,Urban,02-Apr-1997
+HF001445,Male,Yes,2,Not Graduate,No,4136,0,149,480,0,Rural,24-Oct-1997
+HF001446,Male,Yes,0,Graduate,No,8449,0,257,360,1,Rural,23-Sep-1989
+HF001450,Male,Yes,0,Graduate,No,4456,0,131,180,0,Semiurban,17-Apr-1988
+HF001452,Male,Yes,2,Graduate,No,4635,8000,102,180,1,Rural,13-Oct-1983
+HF001455,Male,Yes,0,Graduate,No,3571,1917,135,360,1,Urban,19-Jan-1989
+HF001466,Male,No,0,Graduate,No,3066,0,95,360,1,Semiurban,18-Mar-1993
+HF001471,Male,No,2,Not Graduate,No,3235,2015,77,360,1,Semiurban,26-Mar-1996
+HF001472,Female,No,0,Graduate,,5058,0,200,360,1,Rural,20-Oct-1987
+HF001475,Male,Yes,0,Graduate,Yes,3188,2286,130,360,,Rural,03-Dec-1983
+HF001483,Male,Yes,3+,Graduate,No,13518,0,390,360,1,Rural,01-Oct-1992
+HF001486,Male,Yes,1,Graduate,No,4364,2500,185,360,1,Semiurban,12-Apr-1990
+HF001490,Male,Yes,2,Not Graduate,No,4766,1646,100,360,1,Semiurban,14-Oct-1995
+HF001496,Male,Yes,1,Graduate,No,4609,2333,123,360,0,Semiurban,26-Nov-1992
+HF001499,Female,Yes,3+,Graduate,No,6260,0,110,360,1,Semiurban,30-May-1992
+HF001500,Male,Yes,1,Graduate,No,3333,4200,256,360,1,Urban,13-Jul-2000
+HF001501,Male,Yes,0,Graduate,No,3500,3250,140,360,1,Semiurban,11-Aug-1990
+HF001517,Male,Yes,3+,Graduate,No,9719,0,61,360,1,Urban,23-Jun-1987
+HF001527,Male,Yes,3+,Graduate,No,6835,0,188,360,,Semiurban,06-Dec-1993
+HF001534,Male,No,0,Graduate,No,4452,0,131,360,1,Rural,05-Sep-1996
+HF001542,Female,Yes,0,Graduate,No,2262,0,,480,0,Semiurban,18-Dec-1988
+HF001547,Male,Yes,1,Graduate,No,3901,0,116,360,1,Urban,20-Apr-1989
+HF001548,Male,Yes,2,Not Graduate,No,2687,0,50,180,1,Rural,15-Oct-1984
+HF001558,Male,No,0,Graduate,No,2243,2233,107,360,,Semiurban,04-Sep-1991
+HF001561,Female,Yes,0,Graduate,No,3417,1287,200,360,1,Semiurban,09-Jun-1999
+HF001563,,No,0,Graduate,No,1596,1760,119,360,0,Urban,03-Nov-1990
+HF001567,Male,Yes,3+,Graduate,No,4513,0,120,360,1,Rural,08-Apr-1983
+HF001568,Male,Yes,0,Graduate,No,4500,0,140,360,1,Semiurban,12-Oct-1995
+HF001573,Male,Yes,0,Not Graduate,No,4523,1350,165,360,1,Urban,27-May-1984
+HF001584,Female,No,0,Graduate,Yes,4742,0,108,360,1,Semiurban,27-Aug-1996
+HF001587,Male,Yes,,Graduate,No,4082,0,93,360,1,Semiurban,15-Jan-1998
+HF001589,Female,No,0,Graduate,No,3417,0,102,360,1,Urban,20-Aug-1992
+HF001591,Female,Yes,2,Graduate,No,2922,3396,122,360,1,Semiurban,26-Dec-1987
+HF001599,Male,Yes,0,Graduate,No,4167,4754,160,360,1,Rural,12-Oct-1997
+HF001601,Male,No,3+,Graduate,No,4243,4123,157,360,,Semiurban,28-Dec-1998
+HF001607,Female,No,0,Not Graduate,No,0,1760,180,360,1,Semiurban,25-Feb-1986
+HF001611,Male,Yes,1,Graduate,No,1516,2900,80,,0,Rural,22-Mar-1996
+HF001613,Female,No,0,Graduate,No,1762,2666,104,360,0,Urban,02-Jan-1986
+HF001622,Male,Yes,2,Graduate,No,724,3510,213,360,0,Rural,27-Apr-1982
+HF001627,Male,No,0,Graduate,No,3125,0,65,360,1,Urban,11-Apr-1985
+HF001650,Male,Yes,0,Graduate,No,2333,3803,146,360,1,Rural,19-Aug-1995
+HF001651,Male,Yes,3+,Graduate,No,3350,1560,135,360,1,Urban,12-Jan-1992
+HF001652,Male,No,0,Graduate,No,2500,6414,187,360,0,Rural,10-Jun-1984
+HF001655,Female,No,0,Graduate,No,12500,0,300,360,0,Urban,15-May-1991
+HF001660,Male,No,0,Graduate,No,4667,0,120,360,1,Semiurban,20-Jan-1994
+HF001662,Male,No,0,Graduate,No,6500,0,71,360,0,Urban,17-Jan-1992
+HF001663,Male,Yes,2,Graduate,No,7500,0,225,360,1,Urban,04-Dec-1983
+HF001667,Male,No,0,Graduate,No,3073,0,70,180,1,Urban,21-Jul-1982
+HF001695,Male,Yes,1,Not Graduate,No,3321,2088,70,,1,Semiurban,21-Aug-1991
+HF001703,Male,Yes,0,Graduate,No,3333,1270,124,360,1,Urban,13-Jun-1988
+HF001718,Male,No,0,Graduate,No,3391,0,132,360,1,Rural,04-Apr-2000
+HF001728,Male,Yes,1,Graduate,Yes,3343,1517,105,360,1,Rural,29-Jul-1986
+HF001735,Female,No,1,Graduate,No,3620,0,90,360,1,Urban,27-Dec-1997
+HF001737,Male,No,0,Graduate,No,4000,0,83,84,1,Urban,08-Sep-1988
+HF001739,Male,Yes,0,Graduate,No,4258,0,125,360,1,Urban,30-Jun-1994
+HF001742,Male,Yes,2,Graduate,No,4500,0,147,360,1,Rural,07-Jul-1989
+HF001757,Male,Yes,1,Graduate,No,2014,2925,120,360,1,Rural,01-Aug-1989
+HF001769,,No,,Graduate,No,3333,1250,110,360,1,Semiurban,04-Oct-1983
+HF001771,Female,No,3+,Graduate,No,4083,0,103,360,,Semiurban,17-Mar-1984
+HF001785,Male,No,0,Graduate,No,4727,0,150,360,0,Rural,29-Mar-1984
+HF001787,Male,Yes,3+,Graduate,No,3089,2999,100,240,1,Rural,31-Jan-1987
+HF001789,Male,Yes,3+,Not Graduate,,6794,528,139,360,0,Urban,15-Apr-1989
+HF001791,Male,Yes,0,Graduate,Yes,32000,0,550,360,,Semiurban,09-Sep-1995
+HF001794,Male,Yes,2,Graduate,Yes,10890,0,260,12,1,Rural,15-Oct-1994
+HF001797,Female,No,0,Graduate,No,12941,0,150,300,1,Urban,10-Feb-1998
+HF001815,Male,No,0,Not Graduate,No,3276,0,90,360,1,Semiurban,10-Jan-1986
+HF001817,Male,No,0,Not Graduate,Yes,8703,0,199,360,0,Rural,17-Nov-1984
+HF001818,Male,Yes,1,Graduate,No,4742,717,139,360,1,Semiurban,08-Mar-1990
+HF001822,Male,No,0,Graduate,No,5900,0,150,360,1,Urban,28-Jun-1999
+HF001827,Male,No,0,Graduate,No,3071,4309,180,360,1,Urban,06-Feb-1988
+HF001831,Male,Yes,0,Graduate,No,2783,1456,113,360,1,Urban,27-May-2000
+HF001842,Male,No,0,Graduate,No,5000,0,148,360,1,Rural,14-May-1992
+HF001853,Male,Yes,1,Not Graduate,No,2463,2360,117,360,0,Urban,08-Oct-1984
+HF001855,Male,Yes,2,Graduate,No,4855,0,72,360,1,Rural,01-Dec-1990
+HF001857,Male,No,0,Not Graduate,Yes,1599,2474,125,300,1,Semiurban,08-Mar-1992
+HF001862,Male,Yes,2,Graduate,Yes,4246,4246,214,360,1,Urban,24-Mar-1992
+HF001867,Male,Yes,0,Graduate,No,4333,2291,133,350,1,Rural,23-Aug-1999
+HF001878,Male,No,1,Graduate,No,5823,2529,187,360,1,Semiurban,01-Jul-1983
+HF001881,Male,Yes,0,Not Graduate,No,7895,0,143,360,1,Rural,19-Jan-1990
+HF001886,Male,No,0,Graduate,No,4150,4256,209,360,1,Rural,28-May-1985
+HF001906,Male,No,0,Graduate,,2964,0,84,360,0,Semiurban,10-Jul-1991
+HF001909,Male,No,0,Graduate,No,5583,0,116,360,1,Urban,26-Jul-1982
+HF001911,Female,No,0,Graduate,No,2708,0,65,360,1,Rural,23-Aug-1985
+HF001921,Male,No,1,Graduate,No,3180,2370,80,240,,Rural,05-Sep-1994
+HF001923,Male,No,0,Not Graduate,No,2268,0,170,360,0,Semiurban,26-Aug-1986
+HF001933,Male,No,2,Not Graduate,No,1141,2017,120,360,0,Urban,13-Aug-1985
+HF001943,Male,Yes,0,Graduate,No,3042,3167,135,360,1,Urban,21-Oct-1985
+HF001950,Female,Yes,3+,Graduate,,1750,2935,94,360,0,Semiurban,24-Oct-1986
+HF001959,Female,Yes,1,Graduate,No,3564,0,79,360,1,Rural,26-Aug-1995
+HF001961,Female,No,0,Graduate,No,3958,0,110,360,1,Rural,08-Mar-1994
+HF001973,Male,Yes,2,Not Graduate,No,4483,0,130,360,1,Rural,22-Apr-1983
+HF001975,Male,Yes,0,Graduate,No,5225,0,143,360,1,Rural,16-Apr-1998
+HF001979,Male,No,0,Graduate,No,3017,2845,159,180,0,Urban,11-Jul-1984
+HF001995,Male,Yes,0,Not Graduate,No,2431,1820,110,360,0,Rural,06-Apr-1988
+HF001999,Male,Yes,2,Graduate,,4912,4614,160,360,1,Rural,28-Dec-1983
+HF002007,Male,Yes,2,Not Graduate,No,2500,3333,131,360,1,Urban,11-Aug-1992
+HF002009,Female,No,0,Graduate,No,2918,0,65,360,,Rural,11-Aug-1995
+HF002016,Male,Yes,2,Graduate,No,5128,0,143,360,1,Rural,02-Dec-1985
+HF002017,Male,Yes,3+,Graduate,No,15312,0,187,360,,Urban,18-Mar-2001
+HF002018,Male,Yes,2,Graduate,No,3958,2632,160,360,1,Semiurban,20-May-1992
+HF002027,Male,Yes,0,Graduate,No,4334,2945,165,360,1,Semiurban,16-Aug-1998
+HF002028,Male,Yes,2,Graduate,No,4358,0,110,360,1,Urban,13-Aug-1990
+HF002042,Female,Yes,1,Graduate,No,4000,3917,173,360,1,Rural,03-Mar-1982
+HF002045,Male,Yes,3+,Graduate,No,10166,750,150,,1,Urban,08-Nov-1996
+HF002046,Male,Yes,0,Not Graduate,No,4483,0,135,360,,Semiurban,14-Mar-1989
+HF002047,Male,Yes,2,Not Graduate,No,4521,1184,150,360,1,Semiurban,04-Jan-1994
+HF002056,Male,Yes,2,Graduate,No,9167,0,235,360,1,Semiurban,11-Jan-1989
+HF002057,Male,Yes,0,Not Graduate,No,13083,0,,360,1,Rural,10-Jun-1994
+HF002059,Male,Yes,2,Graduate,No,7874,3967,336,360,1,Rural,18-Feb-2001
+HF002062,Female,Yes,1,Graduate,No,4333,0,132,84,1,Rural,05-Jan-1985
+HF002064,Male,No,0,Graduate,No,4083,0,96,360,1,Urban,05-Dec-1999
+HF002069,Male,Yes,2,Not Graduate,,3785,2912,180,360,0,Rural,07-Mar-1995
+HF002070,Male,Yes,3+,Not Graduate,No,2654,1998,128,360,0,Rural,13-Aug-1983
+HF002077,Male,Yes,1,Graduate,No,10000,2690,412,360,1,Semiurban,21-May-1995
+HF002083,Male,No,0,Graduate,Yes,5833,0,116,360,1,Urban,28-Sep-1994
+HF002090,Male,Yes,1,Graduate,No,4796,0,114,360,0,Semiurban,05-Mar-1993
+HF002096,Male,Yes,0,Not Graduate,No,2000,1600,115,360,1,Rural,07-Feb-1996
+HF002099,Male,Yes,2,Graduate,No,2540,700,104,360,0,Urban,18-May-1992
+HF002102,Male,Yes,0,Graduate,Yes,1900,1442,88,360,1,Rural,14-Jun-1996
+HF002105,Male,Yes,0,Graduate,Yes,8706,0,108,480,1,Rural,18-May-1990
+HF002107,Male,Yes,3+,Not Graduate,No,2855,542,90,360,1,Urban,12-Jan-1987
+HF002111,Male,Yes,,Graduate,No,3016,1300,100,360,,Urban,25-Dec-2000
+HF002117,Female,Yes,0,Graduate,No,3159,2374,108,360,1,Semiurban,10-Jan-1987
+HF002118,Female,No,0,Graduate,No,1937,1152,78,360,1,Semiurban,11-Apr-1985
+HF002123,Male,Yes,0,Graduate,No,2613,2417,123,360,1,Semiurban,08-Aug-1994
+HF002125,Male,Yes,1,Graduate,No,4960,2600,187,360,1,Semiurban,19-Sep-1986
+HF002148,Male,Yes,1,Graduate,No,3074,1083,146,360,1,Semiurban,24-Jul-2000
+HF002152,Female,No,0,Graduate,No,4213,0,80,360,1,Urban,05-Sep-1983
+HF002165,,No,1,Not Graduate,No,2038,4027,100,360,1,Rural,26-Mar-1994
+HF002167,Female,No,0,Graduate,No,2362,0,55,360,1,Urban,05-Jan-1990
+HF002168,Male,No,0,Graduate,No,5333,2400,200,360,0,Rural,20-Jun-1996
+HF002172,Male,Yes,3+,Graduate,Yes,5384,0,150,360,1,Semiurban,30-Mar-1984
+HF002176,Male,No,0,Graduate,No,5708,0,150,360,1,Rural,04-Aug-1982
+HF002183,Male,Yes,0,Not Graduate,No,3754,3719,118,,1,Rural,27-Feb-1986
+HF002184,Male,Yes,0,Not Graduate,No,2914,2130,150,300,1,Urban,11-Apr-1982
+HF002186,Male,Yes,0,Not Graduate,No,2747,2458,118,36,1,Semiurban,21-Mar-1982
+HF002192,Male,Yes,0,Graduate,No,7830,2183,212,360,1,Rural,01-Mar-1994
+HF002195,Male,Yes,1,Graduate,Yes,3507,3148,212,360,1,Rural,04-Sep-1990
+HF002208,Male,Yes,1,Graduate,No,3747,2139,125,360,1,Urban,24-Aug-1999
+HF002212,Male,Yes,0,Graduate,No,2166,2166,108,360,,Urban,30-Apr-2000
+HF002240,Male,Yes,0,Not Graduate,No,3500,2168,149,360,1,Rural,21-Aug-1993
+HF002245,Male,Yes,2,Not Graduate,No,2896,0,80,480,1,Urban,27-May-1998
+HF002253,Female,No,1,Graduate,No,5062,0,152,300,1,Rural,16-Jul-1982
+HF002256,Female,No,2,Graduate,Yes,5184,0,187,360,0,Semiurban,04-Apr-1988
+HF002257,Female,No,0,Graduate,No,2545,0,74,360,1,Urban,01-Jun-1985
+HF002264,Male,Yes,0,Graduate,No,2553,1768,102,360,1,Urban,10-Sep-1992
+HF002270,Male,Yes,1,Graduate,No,3436,3809,100,360,1,Rural,09-May-1992
+HF002279,Male,No,0,Graduate,No,2412,2755,130,360,1,Rural,17-Mar-1990
+HF002286,Male,Yes,3+,Not Graduate,No,5180,0,125,360,0,Urban,17-Mar-1998
+HF002294,Male,No,0,Graduate,No,14911,14507,130,360,1,Semiurban,26-Jul-1988
+HF002298,,No,0,Graduate,Yes,2860,2988,138,360,1,Urban,18-Nov-1988
+HF002306,Male,Yes,0,Graduate,No,1173,1594,28,180,1,Rural,05-Dec-1992
+HF002310,Female,No,1,Graduate,No,7600,0,92,360,1,Semiurban,07-Nov-1987
+HF002311,Female,Yes,0,Graduate,No,2157,1788,104,360,1,Urban,13-Apr-1997
+HF002316,Male,No,0,Graduate,No,2231,2774,176,360,0,Urban,26-Nov-1993
+HF002321,Female,No,0,Graduate,No,2274,5211,117,360,0,Semiurban,20-Sep-1987
+HF002325,Male,Yes,2,Not Graduate,No,6166,13983,102,360,1,Rural,21-Jul-1985
+HF002326,Male,Yes,2,Not Graduate,No,2513,1110,107,360,1,Semiurban,11-Feb-1996
+HF002329,Male,No,0,Graduate,No,4333,0,66,480,1,Urban,15-Nov-1993
+HF002333,Male,No,0,Not Graduate,No,3844,0,105,360,1,Urban,01-Jun-1996
+HF002339,Male,Yes,0,Graduate,No,3887,1517,105,360,0,Semiurban,12-Feb-1993
+HF002344,Male,Yes,0,Graduate,No,3510,828,105,360,1,Semiurban,01-Jun-1994
+HF002346,Male,Yes,0,Graduate,,2539,1704,125,360,0,Rural,12-Jun-2000
+HF002354,Female,No,0,Not Graduate,No,2107,0,64,360,1,Semiurban,20-Jul-1987
+HF002355,,Yes,0,Graduate,No,3186,3145,150,180,0,Semiurban,30-Jun-1990
+HF002358,Male,Yes,2,Graduate,Yes,5000,2166,150,360,1,Urban,27-Oct-1996
+HF002360,Male,Yes,,Graduate,No,10000,0,,360,1,Urban,20-Jun-1982
+HF002375,Male,Yes,0,Not Graduate,Yes,3943,0,64,360,1,Semiurban,14-Oct-1992
+HF002376,Male,No,0,Graduate,No,2925,0,40,180,1,Rural,11-May-1985
+HF002383,Male,Yes,3+,Graduate,No,3242,437,142,480,0,Urban,06-Feb-1986
+HF002385,Male,Yes,,Graduate,No,3863,0,70,300,1,Semiurban,04-Jan-1986
+HF002389,Female,No,1,Graduate,No,4028,0,131,360,1,Semiurban,05-Oct-1995
+HF002394,Male,Yes,2,Graduate,No,4010,1025,120,360,1,Urban,28-Apr-1987
+HF002397,Female,Yes,1,Graduate,No,3719,1585,114,360,1,Urban,02-Oct-1982
+HF002399,Male,No,0,Graduate,,2858,0,123,360,0,Rural,09-Jul-1986
+HF002400,Female,Yes,0,Graduate,No,3833,0,92,360,1,Rural,06-Jan-1991
+HF002402,Male,Yes,0,Graduate,No,3333,4288,160,360,1,Urban,20-Jan-1997
+HF002412,Male,Yes,0,Graduate,No,3007,3725,151,360,1,Rural,19-Sep-1983
+HF002415,Female,No,1,Graduate,,1850,4583,81,360,,Rural,10-Nov-1995
+HF002417,Male,Yes,3+,Not Graduate,No,2792,2619,171,360,1,Semiurban,14-Mar-1984
+HF002420,Male,Yes,0,Graduate,No,2982,1550,110,360,1,Semiurban,23-May-1990
+HF002425,Male,No,0,Graduate,No,3417,738,100,360,,Rural,03-Sep-1985
+HF002433,Male,Yes,1,Graduate,No,18840,0,234,360,1,Rural,06-Mar-1985
+HF002440,Male,Yes,2,Graduate,No,2995,1120,184,360,1,Rural,24-Jul-1985
+HF002441,Male,No,,Graduate,No,3579,3308,138,360,,Semiurban,25-Apr-1985
+HF002442,Female,Yes,1,Not Graduate,No,3835,1400,112,480,0,Urban,25-Jun-1983
+HF002445,Female,No,1,Not Graduate,No,3854,3575,117,360,1,Rural,08-Feb-1990
+HF002450,Male,Yes,2,Graduate,No,5833,750,49,360,0,Rural,21-Mar-1985
+HF002471,Male,No,0,Graduate,No,3508,0,99,360,1,Rural,27-Dec-1986
+HF002476,Female,Yes,3+,Not Graduate,No,1635,2444,99,360,1,Urban,16-Jun-1995
+HF002482,Female,No,0,Graduate,Yes,3333,3916,212,360,1,Rural,16-May-1998
+HF002485,Male,No,1,Graduate,No,24797,0,240,360,1,Semiurban,27-Jul-1995
+HF002495,Male,Yes,2,Graduate,No,5667,440,130,360,0,Semiurban,18-Dec-1984
+HF002496,Female,No,0,Graduate,No,3500,0,94,360,0,Semiurban,01-Apr-1991
+HF002523,Male,Yes,3+,Graduate,No,2773,1497,108,360,1,Semiurban,01-Dec-1983
+HF002542,Male,Yes,0,Graduate,,6500,0,144,360,1,Urban,02-Oct-1991
+HF002550,Female,No,0,Graduate,No,5769,0,110,180,1,Semiurban,23-Oct-2000
+HF002551,Male,Yes,3+,Not Graduate,,3634,910,176,360,0,Semiurban,12-Nov-1989
+HF002553,,No,0,Graduate,No,29167,0,185,360,1,Semiurban,01-Sep-1985
+HF002554,Male,No,0,Graduate,No,2166,2057,122,360,1,Semiurban,25-Jan-1998
+HF002561,Male,Yes,0,Graduate,No,5000,0,126,360,1,Rural,12-Feb-1992
+HF002566,Female,No,0,Graduate,No,5530,0,135,360,,Urban,02-Feb-1994
+HF002568,Male,No,0,Not Graduate,No,9000,0,122,360,1,Rural,14-Apr-2000
+HF002570,Female,Yes,2,Graduate,No,10000,11666,460,360,1,Urban,20-Jul-1996
+HF002572,Male,Yes,1,Graduate,,8750,0,297,360,1,Urban,24-Nov-1996
+HF002581,Male,Yes,0,Not Graduate,No,2157,2730,140,360,,Rural,25-Aug-1982
+HF002584,Male,No,0,Graduate,,1972,4347,106,360,1,Rural,24-Jan-2001
+HF002592,Male,No,0,Graduate,No,4983,0,141,360,1,Urban,02-Nov-1983
+HF002593,Male,Yes,1,Graduate,No,8333,4000,,360,1,Urban,11-Apr-1993
+HF002599,Male,Yes,0,Graduate,No,3667,2000,170,360,1,Semiurban,29-Jan-1991
+HF002604,Male,Yes,2,Graduate,No,3166,2833,145,360,1,Urban,06-Oct-1991
+HF002605,Male,No,0,Not Graduate,No,3271,0,90,360,1,Rural,11-Aug-1993
+HF002609,Female,Yes,0,Graduate,No,2241,2000,88,360,0,Urban,16-Mar-1987
+HF002610,Male,Yes,1,Not Graduate,,1792,2565,128,360,1,Urban,07-Sep-1982
+HF002612,Female,Yes,0,Graduate,No,2666,0,84,480,1,Semiurban,08-Oct-1984
+HF002614,,No,0,Graduate,No,6478,0,108,360,1,Semiurban,27-Aug-1989
+HF002630,Male,No,0,Not Graduate,,3808,0,83,360,1,Rural,19-Jul-1991
+HF002635,Female,Yes,2,Not Graduate,No,3729,0,117,360,1,Semiurban,20-Dec-1994
+HF002639,Male,Yes,2,Graduate,No,4120,0,128,360,1,Rural,18-May-1999
+HF002644,Male,Yes,1,Graduate,Yes,7500,0,75,360,1,Urban,12-Aug-1989
+HF002651,Male,Yes,1,Graduate,,6300,0,125,360,0,Urban,07-Aug-1999
+HF002654,Female,No,,Graduate,Yes,14987,0,177,360,1,Rural,31-Dec-1988
+HF002657,,Yes,1,Not Graduate,Yes,570,2125,68,360,1,Rural,13-Jan-1999
+HF002711,Male,Yes,0,Graduate,No,2600,700,96,360,1,Semiurban,10-Jul-1982
+HF002712,Male,No,2,Not Graduate,No,2733,1083,180,360,,Semiurban,22-Mar-1997
+HF002721,Male,Yes,2,Graduate,Yes,7500,0,183,360,1,Rural,20-Nov-1984
+HF002735,Male,Yes,2,Not Graduate,No,3859,0,121,360,1,Rural,19-Jul-1988
+HF002744,Male,Yes,1,Graduate,No,6825,0,162,360,1,Rural,21-Jan-1991
+HF002745,Male,Yes,0,Graduate,No,3708,4700,132,360,1,Semiurban,20-Jun-1998
+HF002746,Male,No,0,Graduate,No,5314,0,147,360,1,Urban,23-Dec-1998
+HF002747,Female,No,3+,Graduate,No,2366,5272,153,360,0,Rural,23-Feb-1989
+HF002754,Male,No,,Graduate,No,2066,2108,104,84,1,Urban,19-Oct-1998
+HF002759,Male,Yes,2,Graduate,No,5000,0,149,360,1,Rural,28-Jan-1991
+HF002760,Female,No,0,Graduate,No,3767,0,134,300,1,Urban,25-Oct-1999
+HF002766,Female,Yes,0,Graduate,No,7859,879,165,180,1,Semiurban,02-Sep-1992
+HF002769,Female,Yes,0,Graduate,No,4283,0,120,360,1,Rural,18-Mar-1991
+HF002774,Male,Yes,0,Not Graduate,No,1700,2900,67,360,0,Urban,14-Sep-1987
+HF002775,,No,0,Not Graduate,No,4768,0,125,360,1,Rural,12-Aug-1988
+HF002781,Male,No,0,Graduate,No,3083,2738,120,360,1,Urban,16-Apr-1999
+HF002782,Male,Yes,1,Graduate,No,2667,1542,148,360,1,Rural,03-Jan-1999
+HF002786,Female,Yes,0,Not Graduate,No,1647,1762,181,360,1,Urban,30-Jan-1984
+HF002790,Male,Yes,3+,Graduate,No,3400,0,80,120,1,Urban,18-Sep-1988
+HF002791,Male,No,1,Graduate,,16000,5000,40,360,1,Semiurban,12-Nov-1988
+HF002793,Male,Yes,0,Graduate,No,5333,0,90,360,1,Rural,23-Aug-1985
+HF002802,Male,No,0,Graduate,No,2875,2416,95,6,0,Semiurban,27-Jan-1996
+HF002803,Male,Yes,1,Not Graduate,,2600,618,122,360,1,Semiurban,24-Nov-1990
+HF002805,Male,Yes,2,Graduate,No,5041,700,150,360,1,Urban,01-Jul-1982
+HF002806,Male,Yes,3+,Graduate,Yes,6958,1411,150,360,1,Rural,20-Feb-1982
+HF002816,Male,Yes,1,Graduate,No,3500,1658,104,360,,Semiurban,30-Nov-1983
+HF002823,Male,Yes,0,Graduate,No,5509,0,143,360,1,Rural,25-Oct-1983
+HF002825,Male,Yes,3+,Graduate,No,9699,0,300,360,1,Urban,30-Jul-1992
+HF002826,Female,Yes,1,Not Graduate,No,3621,2717,171,360,1,Urban,05-Mar-1988
+HF002843,Female,Yes,0,Graduate,No,4709,0,113,360,1,Semiurban,10-Aug-1988
+HF002849,Male,Yes,0,Graduate,No,1516,1951,35,360,1,Semiurban,09-Nov-1996
+HF002850,Male,No,2,Graduate,No,2400,0,46,360,1,Urban,14-May-1988
+HF002853,Female,No,0,Not Graduate,No,3015,2000,145,360,,Urban,23-Sep-1988
+HF002856,Male,Yes,0,Graduate,No,2292,1558,119,360,1,Urban,21-Jan-1987
+HF002857,Male,Yes,1,Graduate,Yes,2360,3355,87,240,1,Rural,20-Jul-1991
+HF002858,Female,No,0,Graduate,No,4333,2333,162,360,0,Rural,18-Oct-1984
+HF002860,Male,Yes,0,Graduate,Yes,2623,4831,122,180,1,Semiurban,04-May-1992
+HF002867,Male,No,0,Graduate,Yes,3972,4275,187,360,1,Rural,24-Jun-1989
+HF002869,Male,Yes,3+,Not Graduate,No,3522,0,81,180,1,Rural,25-Aug-1991
+HF002870,Male,Yes,1,Graduate,No,4700,0,80,360,1,Urban,09-May-2000
+HF002876,Male,No,0,Graduate,No,6858,0,176,360,1,Rural,30-Apr-1994
+HF002878,Male,Yes,3+,Graduate,No,8334,0,260,360,1,Urban,25-Apr-1986
+HF002879,Male,Yes,0,Graduate,No,3391,1966,133,360,0,Rural,01-Jan-1985
+HF002885,Male,No,0,Not Graduate,No,2868,0,70,360,1,Urban,05-May-1992
+HF002890,Male,Yes,2,Not Graduate,No,3418,1380,135,360,1,Urban,21-Nov-1983
+HF002891,Male,Yes,0,Graduate,Yes,2500,296,137,300,1,Rural,22-Dec-1995
+HF002899,Male,Yes,2,Graduate,No,8667,0,254,360,1,Rural,29-Mar-2000
+HF002901,Male,No,0,Graduate,No,2283,15000,106,360,,Rural,08-Apr-1999
+HF002907,Male,Yes,0,Graduate,No,5817,910,109,360,1,Urban,07-Apr-1998
+HF002920,Male,Yes,0,Graduate,No,5119,3769,120,360,1,Rural,26-Nov-1997
+HF002921,Male,Yes,3+,Not Graduate,No,5316,187,158,180,0,Semiurban,12-Jun-1997
+HF002932,Male,Yes,3+,Graduate,No,7603,1213,197,360,1,Urban,23-Feb-1997
+HF002935,Male,Yes,1,Graduate,No,3791,1936,85,360,1,Urban,15-Sep-1995
+HF002952,Male,No,0,Graduate,No,2500,0,60,360,1,Urban,13-Feb-1999
+HF002954,Male,Yes,2,Not Graduate,No,3132,0,76,360,,Rural,04-Oct-1991
+HF002962,Male,No,0,Graduate,No,4000,2667,152,360,1,Semiurban,26-Jan-1984
+HF002965,Female,Yes,0,Graduate,No,8550,4255,96,360,,Urban,19-Apr-1985
+HF002969,Male,Yes,1,Graduate,No,2269,2167,99,360,1,Semiurban,16-Jul-1991
+HF002971,Male,Yes,3+,Not Graduate,Yes,4009,1777,113,360,1,Urban,25-Aug-1998
+HF002975,Male,Yes,0,Graduate,No,4158,709,115,360,1,Urban,24-Jun-1999
+HF002980,Male,No,0,Graduate,No,3250,1993,126,360,,Semiurban,15-May-1993
+HF002986,Male,Yes,0,Graduate,No,5000,2393,158,360,1,Rural,30-Mar-1996
+HF002989,Male,No,0,Graduate,Yes,9200,0,98,180,1,Rural,05-Nov-1986
